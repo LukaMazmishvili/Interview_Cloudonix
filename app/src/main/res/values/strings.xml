@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Interview - Cloudonix</string>
+    <string name="ip_address">Ip Address</string>
+    <string name="get_ip_n_and_n_send_request">Get IP \n and \n Send Request</string>
+</resources>
